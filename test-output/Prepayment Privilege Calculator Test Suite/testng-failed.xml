@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Prepayment Privilege Calculator Test Suite]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="5" name="Prepayment Privilege Calculator Test (failed)">
+    <classes>
+      <class name="AutomationTesting.PrepaymentPrivilegeCalculator.PrepaymentPrivilegeCalculatorTest">
+        <methods>
+          <include name="setupDriver"/>
+          <include name="readPropertyFile"/>
+          <include name="errorValidationTest"/>
+        </methods>
+      </class> <!-- AutomationTesting.PrepaymentPrivilegeCalculator.PrepaymentPrivilegeCalculatorTest -->
+    </classes>
+  </test> <!-- Prepayment Privilege Calculator Test (failed) -->
+</suite> <!-- Failed suite [Prepayment Privilege Calculator Test Suite] -->

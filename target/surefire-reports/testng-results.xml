@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="testMethods.TestMethod" duration-ms="21388" started-at="2019-03-27T14:35:18Z" finished-at="2019-03-27T14:35:39Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="21388" started-at="2019-03-27T14:35:18Z" finished-at="2019-03-27T14:35:39Z">
+      <class name="testMethods.TestMethod">
+        <test-method status="PASS" signature="readPropertyFile()[pri:0, instance:testMethods.TestMethod@17550481]" name="readPropertyFile" is-config="true" duration-ms="178" started-at="2019-03-27T14:35:18Z" finished-at="2019-03-27T14:35:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readPropertyFile -->
+        <test-method status="PASS" signature="setupDriver()[pri:0, instance:testMethods.TestMethod@17550481]" name="setupDriver" is-config="true" duration-ms="7688" started-at="2019-03-27T14:35:18Z" finished-at="2019-03-27T14:35:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="validateData()[pri:0, instance:testMethods.TestMethod@17550481]" name="validateData" duration-ms="2751" started-at="2019-03-27T14:35:26Z" finished-at="2019-03-27T14:35:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateData -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testMethods.TestMethod@17550481]" name="closeBrowser" is-config="true" duration-ms="2072" started-at="2019-03-27T14:35:28Z" finished-at="2019-03-27T14:35:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="setupDriver()[pri:0, instance:testMethods.TestMethod@17550481]" name="setupDriver" is-config="true" duration-ms="5321" started-at="2019-03-27T14:35:30Z" finished-at="2019-03-27T14:35:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="validateErrorMessage()[pri:0, instance:testMethods.TestMethod@17550481]" name="validateErrorMessage" duration-ms="3260" started-at="2019-03-27T14:35:36Z" finished-at="2019-03-27T14:35:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateErrorMessage -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testMethods.TestMethod@17550481]" name="closeBrowser" is-config="true" duration-ms="268" started-at="2019-03-27T14:35:39Z" finished-at="2019-03-27T14:35:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testMethods.TestMethod@17550481]" name="tearDown" is-config="true" duration-ms="306" started-at="2019-03-27T14:35:39Z" finished-at="2019-03-27T14:35:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testMethods.TestMethod -->
+    </test> <!-- Command line test -->
+  </suite> <!-- testMethods.TestMethod -->
+</testng-results>
